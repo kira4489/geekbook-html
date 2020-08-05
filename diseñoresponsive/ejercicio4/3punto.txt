@@ -1,0 +1,3 @@
+se vuelve rojo cuando le hago responsive 
+
+y cuando esta en el tamaño normal se ve azul
