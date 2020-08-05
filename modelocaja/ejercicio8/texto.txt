@@ -1,0 +1,17 @@
+los modulos estan compuestos
+por un div una img un hipervinculo,strong,small
+los modulos estan colocados
+position: relative;
+    height: 325px;
+    height: 32.5rem;
+    /* width: 546px; */
+    width: 54.6rem;
+    max-width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    vertical-align: middle;
+
+Cuánto tiene de separación con el botón de buscar
+    margin: .4rem auto 1.95rem;
+¿Qué hay de raro con esa separación?
+ninguna solo hay un margin de 0

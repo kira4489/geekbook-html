@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    color: darkcyan;
+    
+}
+
+.item1{
+    background-color: blue;
+    min-height: 30vh;
+    flex-basis: 100px ; flex-grow: 1 }
+
+
+.item2{
+    background-color: blueviolet;
+    min-height: 30vh;
+    flex-basis: 100px ; flex-grow: 2 
+}
+
+.item3{
+    background-color: cadetblue;
+    min-height: 30vh;
+    flex-basis: 100px ; flex-grow: 1 } 

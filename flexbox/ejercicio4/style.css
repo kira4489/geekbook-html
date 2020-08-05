@@ -1,0 +1,42 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.punto2 {
+  order: -2;
+ 
+}
+
+.punto2 img {
+  width: 500px;
+  display: block;
+  margin: 0 auto;
+}
+
+p.punto2 {
+  order: -1;
+  display: flex;
+  justify-content: center;
+}
+
+.punto1 {
+  order: -3;
+  text-align: center;
+}
+
+.punto4{
+    order: -2;
+    text-align: center;
+}
+
+.punto3{
+    display: flex;
+    justify-content: center;
+}
+
+.punto5{
+order: -1;
+display: flex;
+justify-content: center;
+}

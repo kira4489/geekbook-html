@@ -1,0 +1,14 @@
+div{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    background-color: brown;
+    border: 5px;
+    box-sizing: border-box;
+    margin: auto;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}

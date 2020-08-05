@@ -1,0 +1,27 @@
+.punto1 {
+  width: 500px;
+  height: 500px;
+  background-color: yellow;
+  position: absolute;
+  padding: 40px;
+  border:2px solid black;
+  box-sizing: border-box;
+}
+
+.punto2 {
+  width: 300px;
+  height: 300px;
+  background-color: green;
+  position: absolute;
+  padding: 75px;
+  box-sizing: border-box;
+}
+
+.punto3 {
+  width: 150px;
+  height: 150px;
+  background-color: blue;
+  position: absolute;
+  border: 20px solid black;
+  box-sizing: border-box;
+}

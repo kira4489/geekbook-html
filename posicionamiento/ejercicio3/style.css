@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: blueviolet;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  list-style-type: none;
+  border-right: 20px;
+  border-left: 20px;
+}
+
+nav ul li {
+  padding: 2px;
+  text-decoration: none;
+}
+
+nav ul li a {
+  padding: 4px;
+}
+
+
+main,article,section,p{
+  top: 10px;
+  right: 10px;
+  left: 10px;
+  bottom: 10px;
+  position: relative;
+}
