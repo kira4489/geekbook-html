@@ -1,0 +1,29 @@
+.box{
+    background-color: blue;
+    width: 500px;
+    height: 500px;
+}
+
+@media (min-width:320px) {
+    .box {
+        background: red;
+        width: 10vh;
+        height: 10vh;
+    }
+}
+
+@media (min-width:480px) {
+    .box {
+        background: yellow;
+        width: 50vh;
+        height: 100vh;
+    }
+}
+
+@media (min-width:1140px) {
+    .box {
+        background: green;
+        width: 100vh;
+        height: 80vh;
+    }
+}
