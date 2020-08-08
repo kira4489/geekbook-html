@@ -1,0 +1,3 @@
+no son diferentes rutas por la ruta absoluta muestra
+todo la raiz del directorio y en la relativa solo la carpeta
+donde esta guarda
