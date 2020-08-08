@@ -12,21 +12,34 @@ main{
 }
 
 footer{
-    background-color: gray;
+    background-color: gray !important;
     margin-top: -20px;
 }
 
 @media (min-width:1300px) {
     header{
- 
+        background-color: rosybrown;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
     }
- 
+    nav{
+        background-color: salmon;
+        position: absolute;
+        /* margin-left: 20px; */
+        margin-top: 210px;
+        padding: 20px;
+    }
+     main{
+         position: relative;
+         margin-left: 120px;
+     }
  }
 
 
 @media (min-width:1140px) {
    header{
-
+    background-color: rebeccapurple;
    }
 
 }
@@ -36,7 +49,9 @@ footer{
         background-color: greenyellow;
      }
      nav{
-
+background-color: seagreen;
      }
-    
+    footer{
+     background-color: sienna !important;
+    }
 }
