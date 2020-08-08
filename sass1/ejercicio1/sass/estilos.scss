@@ -1,7 +1,7 @@
-$colorlink: black;
-$font-size: 16px arial,sans-serif;
-$background: lightgrey;
-$background1: #aaa;
+$colorlink: #010101;
+$font-size: 18px arial,sans-serif;
+$background: yellow;
+$background1: cyan;
 $height: 100px;
 
 body {
@@ -13,7 +13,7 @@ body {
     min-height: 100vh;
   }
   .wrapper {
-    margin: 0 40px;
+    margin: 0 60px;
   }
   .header {
     background: $background; /* Pasar a variable */
