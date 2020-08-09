@@ -1,0 +1,18 @@
+.header{
+    background-color: green;
+    padding: 10px;
+}
+
+.menu{
+    background-color: royalblue;
+    padding: 10px;
+}
+.content{
+    background-color: rosybrown;
+    padding: 10px;
+}
+
+.footer{
+    background-color: sienna;
+    padding: 10px;
+}
