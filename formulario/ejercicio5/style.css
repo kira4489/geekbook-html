@@ -1,0 +1,43 @@
+form{
+    background-color: rgb(241, 241, 237);
+    margin: 0 auto;
+    max-width: 380px;
+    padding: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+input{
+    margin-bottom: 15px;
+    margin-top: 4px;
+    padding: 5px;
+}
+select{
+    margin-bottom: 15px;
+    margin-top: 4px;
+    padding: 5px;
+}
+.inp-wt{
+    width: 23rem;
+}
+button{
+    padding: 10px;
+    background-color: #337DFF;
+    color: white;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 8px;
+    float: right;
+}
+.nacimiento{
+    display: flex;
+    max-width: 23rem;
+    justify-content: space-between;
+}
+#dia{
+    width: 7rem;
+}
+#mes{
+    width: 7rem;
+}
+#año{
+    width: 7rem;
+}
