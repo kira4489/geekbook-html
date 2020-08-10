@@ -1,0 +1,16 @@
+$fontfamily: 'Geori', sans-serif;
+$background: green;
+$color: blue;
+
+
+
+body{
+background-color: $background;
+font-family: $fontfamily;
+}
+
+h1,p{
+color: $color;
+}
+
+
